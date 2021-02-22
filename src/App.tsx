@@ -1,5 +1,12 @@
+import React from 'react';
+import { ExperienceBar } from './components/ExperienceBar';
+
 function App() {
-  return <h1>Hello NLW#4</h1>;
+  return (
+    <>
+      <ExperienceBar />
+    </>
+  );
 }
 
 export default App;
