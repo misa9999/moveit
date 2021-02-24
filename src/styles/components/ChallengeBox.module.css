@@ -14,19 +14,19 @@
   text-align: center;
 }
 
-.challengeBoxNotActive {
+.challengeNotActive {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.challengeBoxNotActive strong {
+.challengeNotActive strong {
   font-size: 1.5rem;
   font-weight: 500;
   line-height: 1.4;
 }
 
-.challengeBoxNotActive p {
+.challengeNotActive p {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,6 +35,6 @@
   margin-top: 3rem;
 }
 
-.challengeBoxNotActive p img {
+.challengeNotActive p img {
   margin-bottom: 1rem;
 }
